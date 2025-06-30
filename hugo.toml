@@ -1,0 +1,37 @@
+baseURL = 'http://localhost/'
+languageCode = 'es'
+title = 'Trabajo Final Hardware'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+  defaultTheme = "auto"
+
+[menu]
+  [[menu.main]]
+    name = "Justificación"
+    url = "/justificacion/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Requisitos"
+    url = "/requisitos/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Presupuesto"
+    url = "/presupuesto/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Conclusiones"
+    url = "/conclusiones/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "faq"
+    name = "Preguntas Frecuentes"
+    url = "/preguntas-frecuentes/"
+    weight = 40

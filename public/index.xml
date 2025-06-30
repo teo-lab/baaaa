@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Inicio on Trabajo Final Hardware</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Inicio on Trabajo Final Hardware</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conclusiones</title>
+      <link>http://localhost:1313/conclusiones/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conclusiones/</guid>
+      <description>&lt;h2 id=&#34;conclusiones-del-proyecto-de-hardware&#34;&gt;Conclusiones del Proyecto de Hardware&lt;/h2&gt;
+&lt;p&gt;El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia &lt;strong&gt;Laboratorio de Hardware&lt;/strong&gt;, abordando desde la selección de componentes hasta la proyección de un sistema funcional y escalable para el hogar.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;elección-fundamentada-de-hardware&#34;&gt;Elección fundamentada de hardware&lt;/h3&gt;
+&lt;p&gt;Se analizaron múltiples opciones y se eligieron componentes que ofrecen una buena relación entre precio, rendimiento y durabilidad. Ambas configuraciones propuestas cumplen con los requisitos básicos para un entorno doméstico con necesidades ofimáticas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Justificación del Proyecto</title>
+      <link>http://localhost:1313/justificacion/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/justificacion/</guid>
+      <description>&lt;h2 id=&#34;contexto-y-necesidades-del-usuario&#34;&gt;Contexto y Necesidades del Usuario&lt;/h2&gt;
+&lt;p&gt;El presente trabajo tiene como finalidad diseñar y justificar un sistema informático adaptado al entorno del hogar para cubrir necesidades relacionadas con el uso de aplicaciones ofimáticas. A través del análisis de requerimientos, se propusieron dos configuraciones de equipos que optimizan la relación costo-rendimiento, asegurando la funcionalidad, durabilidad y escalabilidad en el tiempo.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;selección-estratégica-de-componentes&#34;&gt;Selección Estratégica de Componentes&lt;/h2&gt;
+&lt;p&gt;Cada componente fue elegido considerando su compatibilidad, eficiencia energética y soporte a largo plazo. Se priorizaron procesadores AMD Ryzen por su excelente rendimiento multihilo, placas madre con buenas prestaciones de conectividad, memorias RAM DDR4 de 3200 MHz por su equilibrio entre precio y velocidad, y unidades SSD que reducen significativamente los tiempos de arranque y carga de programas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preguntas Frecuentes</title>
+      <link>http://localhost:1313/preguntas-frecuentes/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/preguntas-frecuentes/</guid>
+      <description>&lt;h2 id=&#34;preguntas-frecuentes&#34;&gt;Preguntas Frecuentes&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cuál-es-el-objetivo-principal-del-proyecto&#34;&gt;¿Cuál es el objetivo principal del proyecto?&lt;/h3&gt;
+&lt;p&gt;Diseñar un sistema informático para el hogar, enfocado en tareas de ofimática, navegación web y videollamadas.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;por-qué-se-eligió-la-plataforma-amd-ryzen&#34;&gt;¿Por qué se eligió la plataforma AMD Ryzen?&lt;/h3&gt;
+&lt;p&gt;Ofrece un excelente equilibrio entre precio y rendimiento, especialmente en tareas multitarea y productividad básica.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;cuánta-memoria-ram-es-adecuada&#34;&gt;¿Cuánta memoria RAM es adecuada?&lt;/h3&gt;
+&lt;p&gt;Se consideró 16 GB DDR4 como base, suficiente para uso cotidiano. Ambas configuraciones permiten ampliar la RAM a futuro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Presupuesto</title>
+      <link>http://localhost:1313/presupuesto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/presupuesto/</guid>
+      <description>&lt;p&gt;A continuación, se detallan dos presupuestos reales diseñados para equipos destinados al uso de aplicaciones de ofimática en un entorno doméstico.&lt;/p&gt;
+&lt;h2 id=&#34;-primera-computadora--opción-económica&#34;&gt;🖥️ Primera Computadora – Opción económica&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Componente&lt;/th&gt;
+          &lt;th&gt;Descripción&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fuente&lt;/td&gt;
+          &lt;td&gt;Corsair 650W 80 Plus Bronze&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Motherboard&lt;/td&gt;
+          &lt;td&gt;AsRock A520M-HDV AM4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Procesador&lt;/td&gt;
+          &lt;td&gt;AMD Ryzen 3 3200G 4.0GHz&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Memoria RAM&lt;/td&gt;
+          &lt;td&gt;Kingston DDR4 8GB 3200MHz&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Almacenamiento&lt;/td&gt;
+          &lt;td&gt;Disco SSD 480GB SATA (545MB/s + caché)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Auriculares&lt;/td&gt;
+          &lt;td&gt;Estándar&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monitor&lt;/td&gt;
+          &lt;td&gt;Lenovo 21.5’’ 75Hz&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Gabinete&lt;/td&gt;
+          &lt;td&gt;Haxly USB 3.0&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Combo teclado + mouse&lt;/td&gt;
+          &lt;td&gt;Logitech MK120&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;💰 &lt;strong&gt;Total estimado:&lt;/strong&gt; $403.738 ARS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Requisitos</title>
+      <link>http://localhost:1313/requisitos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/requisitos/</guid>
+      <description>&lt;p&gt;A continuación se detallan los programas recomendados y sus requisitos técnicos básicos para un funcionamiento óptimo:&lt;/p&gt;
+&lt;h3 id=&#34;1--google-chrome&#34;&gt;1.  Google Chrome&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sistema Operativo: Windows 10 o superior&lt;/li&gt;
+&lt;li&gt;Procesador: Intel Pentium 4 o superior/ AMD equivalente&lt;/li&gt;
+&lt;li&gt;RAM: 2 GB mínimo (recomendado: 4 GB)&lt;/li&gt;
+&lt;li&gt;Espacio en disco: 500 MB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2--vlc-media-player&#34;&gt;2.  VLC Media Player&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows 10 versión 0.0 o superior&lt;/li&gt;
+&lt;li&gt;Procesador: 1 GHz&lt;/li&gt;
+&lt;li&gt;RAM: 1 GB&lt;/li&gt;
+&lt;li&gt;Espacio en disco: 100 MB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3--thunderbird&#34;&gt;3.  Thunderbird&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sistema Operativo: Windows 10 o superior&lt;/li&gt;
+&lt;li&gt;RAM: 2 GB&lt;/li&gt;
+&lt;li&gt;Espacio en disco: 500 MB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4--libreoffice&#34;&gt;4.  LibreOffice&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sistema operativo: Windows 8 o superior&lt;/li&gt;
+&lt;li&gt;Procesador: Pentium 3 o superior&lt;/li&gt;
+&lt;li&gt;RAM: 512 GB&lt;/li&gt;
+&lt;li&gt;Espacio en disco: 1.5 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5--zoom-workplace&#34;&gt;5.  Zoom Workplace&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Procesador: Cuatro núcleos a 2,5 GHz o superior&lt;/li&gt;
+&lt;li&gt;RAM: 16 GB&lt;/li&gt;
+&lt;li&gt;Conexión a internet: 3 Mbps o superior&lt;/li&gt;
+&lt;li&gt;Espacio en disco: 300 MB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-enlaces-oficiales&#34;&gt;🔗 Enlaces Oficiales&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Google Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.videolan.org/vlc/&#34;&gt;VLC Media Player&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Mozilla Thunderbird&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zoom.us/&#34;&gt;Zoom Workplace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
