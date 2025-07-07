@@ -2,7 +2,7 @@
 title: "Justificación del Proyecto"
 date: 2025-06-30
 ---
-
+![Justificacion](/images/justificacion.jpg)
 ##  Contexto y Necesidades del Usuario
 
 El presente trabajo tiene como finalidad diseñar y justificar un sistema informático adaptado al entorno del hogar para cubrir necesidades relacionadas con el uso de aplicaciones ofimáticas. A través del análisis de requerimientos, se propusieron dos configuraciones de equipos que optimizan la relación costo-rendimiento, asegurando la funcionalidad, durabilidad y escalabilidad en el tiempo.

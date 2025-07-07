@@ -2,6 +2,7 @@
 title: "Conclusiones"
 date: 2025-06-30
 ---
+![Conclusiones](/images/conclusiones.JPG)
 
 ##  Conclusiones del Proyecto de Hardware
 

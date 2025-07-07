@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://teo-lab.github.io/TrabajoHardware/'
 languageCode = 'es'
 title = 'Trabajo Final Hardware'
 theme = 'PaperMod'

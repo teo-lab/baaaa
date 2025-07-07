@@ -2,8 +2,8 @@
 title: "Preguntas Frecuentes"
 date: 2025-06-30
 ---
-
-##  Preguntas Frecuentes
+![FAQ](/images/faq.jpg)
+##  Preguntas Frecuentes (FAQ)
 
 ---
 
@@ -22,6 +22,12 @@ Ofrece un excelente equilibrio entre precio y rendimiento, especialmente en tare
 ###  ¿Cuánta memoria RAM es adecuada?
 
 Se consideró 16 GB DDR4 como base, suficiente para uso cotidiano. Ambas configuraciones permiten ampliar la RAM a futuro.
+
+---
+
+### ¿Es necesario tener una tarjeta grafica dedicada?
+
+No, para ofimatica, los graficos integrados que traen la mayoria de los procesadores modernos son mas que suficientes.
 
 ---
 

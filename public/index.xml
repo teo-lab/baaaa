@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Inicio on Trabajo Final Hardware</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/TrabajoHardware/</link>
     <description>Recent content in Inicio on Trabajo Final Hardware</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
     <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/TrabajoHardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conclusiones</title>
-      <link>http://localhost:1313/conclusiones/</link>
+      <link>http://localhost:1313/TrabajoHardware/conclusiones/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/conclusiones/</guid>
-      <description>&lt;h2 id=&#34;conclusiones-del-proyecto-de-hardware&#34;&gt;Conclusiones del Proyecto de Hardware&lt;/h2&gt;
+      <guid>http://localhost:1313/TrabajoHardware/conclusiones/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Conclusiones&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/TrabajoHardware/images/conclusiones.JPG&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;conclusiones-del-proyecto-de-hardware&#34;&gt;Conclusiones del Proyecto de Hardware&lt;/h2&gt;
 &lt;p&gt;El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia &lt;strong&gt;Laboratorio de Hardware&lt;/strong&gt;, abordando desde la selección de componentes hasta la proyección de un sistema funcional y escalable para el hogar.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;elección-fundamentada-de-hardware&#34;&gt;Elección fundamentada de hardware&lt;/h3&gt;
@@ -21,10 +22,11 @@
     </item>
     <item>
       <title>Justificación del Proyecto</title>
-      <link>http://localhost:1313/justificacion/</link>
+      <link>http://localhost:1313/TrabajoHardware/justificacion/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/justificacion/</guid>
-      <description>&lt;h2 id=&#34;contexto-y-necesidades-del-usuario&#34;&gt;Contexto y Necesidades del Usuario&lt;/h2&gt;
+      <guid>http://localhost:1313/TrabajoHardware/justificacion/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Justificacion&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/TrabajoHardware/images/justificacion.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contexto-y-necesidades-del-usuario&#34;&gt;Contexto y Necesidades del Usuario&lt;/h2&gt;
 &lt;p&gt;El presente trabajo tiene como finalidad diseñar y justificar un sistema informático adaptado al entorno del hogar para cubrir necesidades relacionadas con el uso de aplicaciones ofimáticas. A través del análisis de requerimientos, se propusieron dos configuraciones de equipos que optimizan la relación costo-rendimiento, asegurando la funcionalidad, durabilidad y escalabilidad en el tiempo.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;selección-estratégica-de-componentes&#34;&gt;Selección Estratégica de Componentes&lt;/h2&gt;
@@ -32,10 +34,11 @@
     </item>
     <item>
       <title>Preguntas Frecuentes</title>
-      <link>http://localhost:1313/preguntas-frecuentes/</link>
+      <link>http://localhost:1313/TrabajoHardware/preguntas-frecuentes/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/preguntas-frecuentes/</guid>
-      <description>&lt;h2 id=&#34;preguntas-frecuentes&#34;&gt;Preguntas Frecuentes&lt;/h2&gt;
+      <guid>http://localhost:1313/TrabajoHardware/preguntas-frecuentes/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;FAQ&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/TrabajoHardware/images/faq.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preguntas-frecuentes-faq&#34;&gt;Preguntas Frecuentes (FAQ)&lt;/h2&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;cuál-es-el-objetivo-principal-del-proyecto&#34;&gt;¿Cuál es el objetivo principal del proyecto?&lt;/h3&gt;
 &lt;p&gt;Diseñar un sistema informático para el hogar, enfocado en tareas de ofimática, navegación web y videollamadas.&lt;/p&gt;
@@ -48,10 +51,11 @@
     </item>
     <item>
       <title>Presupuesto</title>
-      <link>http://localhost:1313/presupuesto/</link>
+      <link>http://localhost:1313/TrabajoHardware/presupuesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/presupuesto/</guid>
-      <description>&lt;p&gt;A continuación, se detallan dos presupuestos reales diseñados para equipos destinados al uso de aplicaciones de ofimática en un entorno doméstico.&lt;/p&gt;
+      <guid>http://localhost:1313/TrabajoHardware/presupuesto/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Presupuesto&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/TrabajoHardware/images/presupuesto.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A continuación, se detallan dos presupuestos reales diseñados para equipos destinados al uso de aplicaciones de ofimática en un entorno doméstico.&lt;/p&gt;
 &lt;h2 id=&#34;-primera-computadora--opción-económica&#34;&gt;🖥️ Primera Computadora – Opción económica&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -62,51 +66,58 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;Fuente&lt;/td&gt;
-          &lt;td&gt;Corsair 650W 80 Plus Bronze&lt;/td&gt;
+          &lt;td&gt;Procesador&lt;/td&gt;
+          &lt;td&gt;AMD Ryzen 3 3200G 4.0GHz&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Motherboard&lt;/td&gt;
           &lt;td&gt;AsRock A520M-HDV AM4&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;Procesador&lt;/td&gt;
-          &lt;td&gt;AMD Ryzen 3 3200G 4.0GHz&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Memoria RAM&lt;/td&gt;
+          &lt;td&gt;Memoria Ram&lt;/td&gt;
           &lt;td&gt;Kingston DDR4 8GB 3200MHz&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;Almacenamiento&lt;/td&gt;
-          &lt;td&gt;Disco SSD 480GB SATA (545MB/s + caché)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Auriculares&lt;/td&gt;
-          &lt;td&gt;Estándar&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Monitor&lt;/td&gt;
-          &lt;td&gt;Lenovo 21.5’’ 75Hz&lt;/td&gt;
+          &lt;td&gt;Fuente&lt;/td&gt;
+          &lt;td&gt;Corsair 650w 80 Plus&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Gabinete&lt;/td&gt;
           &lt;td&gt;Haxly USB 3.0&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td&gt;Almacenamiento&lt;/td&gt;
+          &lt;td&gt;Disco SSD 480GB SATA (545MB/s + caché)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monitor&lt;/td&gt;
+          &lt;td&gt;Lenovo 21.5’’ 75Hz&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Auriculares&lt;/td&gt;
+          &lt;td&gt;Auriculares con Micrófono Logitech&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td&gt;Combo teclado + mouse&lt;/td&gt;
           &lt;td&gt;Logitech MK120&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Webcam&lt;/td&gt;
+          &lt;td&gt;Gadnic Full HD 1080p&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;💰 &lt;strong&gt;Total estimado:&lt;/strong&gt; $403.738 ARS&lt;/p&gt;</description>
+&lt;p&gt;💰 &lt;strong&gt;Total estimado:&lt;/strong&gt; $593.218 ARS&lt;/p&gt;</description>
     </item>
     <item>
       <title>Requisitos</title>
-      <link>http://localhost:1313/requisitos/</link>
+      <link>http://localhost:1313/TrabajoHardware/requisitos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/requisitos/</guid>
-      <description>&lt;p&gt;A continuación se detallan los programas recomendados y sus requisitos técnicos básicos para un funcionamiento óptimo:&lt;/p&gt;
+      <guid>http://localhost:1313/TrabajoHardware/requisitos/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Requisitos&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/TrabajoHardware/images/requisitos.JPG&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A continuación se detallan los programas recomendados y sus requisitos técnicos básicos para un funcionamiento óptimo:&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img alt=&#34;Chrome&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/TrabajoHardware/images/chrome.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;1--google-chrome&#34;&gt;1.  Google Chrome&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Sistema Operativo: Windows 10 o superior&lt;/li&gt;
@@ -114,6 +125,8 @@
 &lt;li&gt;RAM: 2 GB mínimo (recomendado: 4 GB)&lt;/li&gt;
 &lt;li&gt;Espacio en disco: 500 MB&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img alt=&#34;vlc&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/TrabajoHardware/images/vlc.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;2--vlc-media-player&#34;&gt;2.  VLC Media Player&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Windows 10 versión 0.0 o superior&lt;/li&gt;
@@ -121,35 +134,8 @@
 &lt;li&gt;RAM: 1 GB&lt;/li&gt;
 &lt;li&gt;Espacio en disco: 100 MB&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;3--thunderbird&#34;&gt;3.  Thunderbird&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Sistema Operativo: Windows 10 o superior&lt;/li&gt;
-&lt;li&gt;RAM: 2 GB&lt;/li&gt;
-&lt;li&gt;Espacio en disco: 500 MB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;4--libreoffice&#34;&gt;4.  LibreOffice&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Sistema operativo: Windows 8 o superior&lt;/li&gt;
-&lt;li&gt;Procesador: Pentium 3 o superior&lt;/li&gt;
-&lt;li&gt;RAM: 512 GB&lt;/li&gt;
-&lt;li&gt;Espacio en disco: 1.5 GB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;5--zoom-workplace&#34;&gt;5.  Zoom Workplace&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Procesador: Cuatro núcleos a 2,5 GHz o superior&lt;/li&gt;
-&lt;li&gt;RAM: 16 GB&lt;/li&gt;
-&lt;li&gt;Conexión a internet: 3 Mbps o superior&lt;/li&gt;
-&lt;li&gt;Espacio en disco: 300 MB&lt;/li&gt;
-&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-enlaces-oficiales&#34;&gt;🔗 Enlaces Oficiales&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Google Chrome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.videolan.org/vlc/&#34;&gt;VLC Media Player&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Mozilla Thunderbird&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zoom.us/&#34;&gt;Zoom Workplace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;thunderbird&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/TrabajoHardware/images/thunderbird.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
